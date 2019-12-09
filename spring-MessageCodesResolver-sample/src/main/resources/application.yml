@@ -1,0 +1,7 @@
+server:
+  port: 8071
+spring:
+  mvc:
+    message-codes-resolver-format: postfix_error_code
+  messages:
+    basename: i18n/validation
