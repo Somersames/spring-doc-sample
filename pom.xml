@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-MessageCodesResolver-sample</module>
+        <module>spring-data-redis-sample</module>
+        <module>import-order-test</module>
+        <module>springboot-multi-datasource-sqlsessionfactory</module>
     </modules>
 
 
