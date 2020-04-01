@@ -13,6 +13,7 @@
         <module>spring-data-redis-sample</module>
         <module>import-order-test</module>
         <module>springboot-multi-datasource-sqlsessionfactory</module>
+        <module>spring-ansyc</module>
     </modules>
 
 
